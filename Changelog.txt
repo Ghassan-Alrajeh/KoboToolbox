@@ -1,0 +1,6 @@
+14.06.2019: V 0.60 Beta
+	Intial public release :)
+    
+27.11.2020: V 1.00 Beta
+
+28.02.2021: V 1.00 RC
